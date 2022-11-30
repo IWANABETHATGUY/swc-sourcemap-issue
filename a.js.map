@@ -1,0 +1,1 @@
+{"version":3,"sources":["test.js"],"sourcesContent":["const xxx = ', something'\nconsole.error(`❌ ${message}`);\n\nconst bbb = ''"],"names":["xxx","console","error","message","bbb"],"mappings":"AAAA,aAAA,IAAMA,IAAM,cACZC,QAAQC,KAAK,CAAC,AAAC,KAAY,OAARC,UAEnB,IAAMC,IAAM"}
